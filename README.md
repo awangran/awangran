@@ -3,7 +3,7 @@
 
 - 🌸 I’m currently working on [letmecook (since i have zero cooking skills))](https://github.com/awangran/letmecook)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 🌿 All of my projects are available at [awangran.github.io](awangran.github.io)
 
