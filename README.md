@@ -1,7 +1,7 @@
 <h1 align="center">🌺 Hi , I'm awangran / ashlee 🌺 </h1>
 <h3 align="center">frontend dev, full stack in the making</h3>
 
-- 🌸 I’m currently working on [letmecook (since i have zero cooking skills))](https://github.com/awangran/letmecook)
+- 🌸 I’m currently working on a secret project and getting through the semester
 
 - 🌱 I’m currently learning **NextJS**
 
