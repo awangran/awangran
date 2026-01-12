@@ -3,9 +3,9 @@
 
 - 🌸 I’m currently working on a secret project and getting through the semester
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React Native**
 
-- 🌿 All of my projects are available at [awangran.github.io](awangran.github.io)
+- 🌿 All of my projects are available at [ashleeyin.com](ashleeyin.com)
 
 - 📫 How to reach me **inquiries.ayin@gmail.com**
 
