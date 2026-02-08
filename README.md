@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🌿 All of my projects are available at [ashleeyin.com](ashleeyin.com)
+- 🌿 All of my projects are available at [ashleeyin.com](www.ashleeyin.com)
 
 - 📫 How to reach me **inquiries.ayin@gmail.com**
 
